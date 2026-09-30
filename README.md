@@ -1,0 +1,2 @@
+# salve-technologies
+Website configuration.
